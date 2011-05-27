@@ -12,7 +12,7 @@ BuildRequires: gettext
 BuildRequires: pkgconfig
 BuildRequires: gnome-doc-utils
 BuildRequires: rarian
-BuildRequires: docbook-dtd45
+BuildRequires: docbook-dtd45-xml
 
 # Until version 1.2.67, system-config-samba contained online documentation.
 # From version 1.2.68 on, online documentation is split off into its own
