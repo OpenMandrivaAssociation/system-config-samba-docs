@@ -1,7 +1,7 @@
 Summary:	Documentation for configuring a Samba server
 Name:		system-config-samba-docs
 Version:	1.0.9
-Release:	8
+Release:	9
 License:	GPLv2+
 Group:		Books/Howtos
 URL:		https://fedorahosted.org/%{name}
